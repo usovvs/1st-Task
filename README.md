@@ -4,4 +4,5 @@ NeuroStartUp — динамически развивающийся старта�
 - Высокая точность поиска
 - Высокая скорость поиска
 - Низкая цена
-![logo](C:\Users\serge\Downloads\logo.png)
+  
+[logo](https://github.com/netology-ds-team/git-homeworks/blob/0d3e4d21f58c9223386cb65ef8d6cd1f38fc5a6c/1_self/logo.png)
